@@ -54,10 +54,6 @@ h1 {
 }
 ```
 
-**Bonus Tip:** Consider integrating serverless functions (like Netlify Functions) for dynamic content. They run offsite, keeping your page load lightning-fast!
-
-Remember, optimization is a journey, not a destination. Run regular tests with tools like Google PageSpeed Insights and keep tweaking your code for a continuously faster site. Go forth and conquer the loading bar!
-
 
 # Need help?
 Stuck with custom css code? [Contact us](https://epyc.in/).
